@@ -1,0 +1,14 @@
+C:\Users\AdminAp-065\Documents\Ejercicio1PushUp\Ejercicio\bin\Debug\net7.0\Ejercicio.exe
+C:\Users\AdminAp-065\Documents\Ejercicio1PushUp\Ejercicio\bin\Debug\net7.0\Ejercicio.deps.json
+C:\Users\AdminAp-065\Documents\Ejercicio1PushUp\Ejercicio\bin\Debug\net7.0\Ejercicio.runtimeconfig.json
+C:\Users\AdminAp-065\Documents\Ejercicio1PushUp\Ejercicio\bin\Debug\net7.0\Ejercicio.dll
+C:\Users\AdminAp-065\Documents\Ejercicio1PushUp\Ejercicio\bin\Debug\net7.0\Ejercicio.pdb
+C:\Users\AdminAp-065\Documents\Ejercicio1PushUp\Ejercicio\obj\Debug\net7.0\Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdminAp-065\Documents\Ejercicio1PushUp\Ejercicio\obj\Debug\net7.0\Ejercicio.AssemblyInfoInputs.cache
+C:\Users\AdminAp-065\Documents\Ejercicio1PushUp\Ejercicio\obj\Debug\net7.0\Ejercicio.AssemblyInfo.cs
+C:\Users\AdminAp-065\Documents\Ejercicio1PushUp\Ejercicio\obj\Debug\net7.0\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\AdminAp-065\Documents\Ejercicio1PushUp\Ejercicio\obj\Debug\net7.0\Ejercicio.dll
+C:\Users\AdminAp-065\Documents\Ejercicio1PushUp\Ejercicio\obj\Debug\net7.0\refint\Ejercicio.dll
+C:\Users\AdminAp-065\Documents\Ejercicio1PushUp\Ejercicio\obj\Debug\net7.0\Ejercicio.pdb
+C:\Users\AdminAp-065\Documents\Ejercicio1PushUp\Ejercicio\obj\Debug\net7.0\Ejercicio.genruntimeconfig.cache
+C:\Users\AdminAp-065\Documents\Ejercicio1PushUp\Ejercicio\obj\Debug\net7.0\ref\Ejercicio.dll
